@@ -1,0 +1,31 @@
+body{
+    font-family: 'Paytone One', sans-serif;
+}
+span{
+    color: dodgerblue;
+}
+.first-div{
+    font-size: 35px;
+    margin-left: 150px;
+    margin-top: 8%;
+    width: 50%;
+   
+    
+}
+.first-sec{
+    display: flex;
+    background-image: url(COVER.jpg);
+    background-size: cover;
+    margin: 0%;
+    padding: 0%;
+}
+.second-div{
+    width: 50%;
+}
+.image{
+    height:530px;
+    width:530px;
+    margin-right: 50%;
+    margin-top: 8%;
+    padding-left: 5%;
+}
