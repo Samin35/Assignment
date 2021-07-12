@@ -17,7 +17,7 @@ span{
     background-image: url(COVER.jpg);
     background-size: cover;
     margin: 0%;
-    padding: 0%;
+    padding-bottom: 7%;
 }
 .second-div{
     width: 50%;
@@ -28,4 +28,19 @@ span{
     margin-right: 50%;
     margin-top: 8%;
     padding-left: 5%;
+}
+.first-p{
+    font-size: 20px;
+   
+}
+.first-button{
+    text-decoration: none;
+    color: dodgerblue;
+    background-color: pink;
+    padding: 10px 10px;
+    border: palevioletred solid;
+    border-radius: 40px;
+    font-size: 30px;
+    text-align: center;
+    
 }
