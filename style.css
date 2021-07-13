@@ -67,6 +67,7 @@ span{
     width:50%;
     padding-top: 12%;
     margin-right: 8%;
+    padding-bottom: 5%;
 }
 
 .life{
@@ -89,4 +90,55 @@ span{
 .h1{
     font-size: 45px;
     color: dodgerblue;
+}
+.ji{
+    text-align: center;
+
+}
+.my{
+    width: 50%;
+    align-items: center;
+    padding: 10px 20px;
+    margin-left: 25%;
+}
+.last{
+    text-align: center;
+}
+.halim{
+    height: 250px;
+    width: 250px;
+    
+}
+.jalal{
+    width: 50%;
+    text-align: center;
+}
+.three-div{
+    display: flex;
+   
+}
+.jala1{
+    border: rgb(30, 128, 185) solid 2px;
+    border-radius: 30px;
+    padding: 10px 10px;
+    margin-left: 10%;
+    box-shadow: 10px 20px 30px rgb(30, 128, 185);
+}
+.jala2{
+    border: rgb(30, 128, 185) solid 2px;
+    border-radius: 30px;
+    
+    
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 10px 10px;
+    box-shadow: 10px 20px 30px pink;
+}
+.jala3{
+    border: rgb(30, 128, 185) solid 2px;
+    border-radius: 30px;
+    padding: 10px 10px;
+ 
+    margin-right: 10%;
+    box-shadow: 10px 20px 30px rgb(30, 128, 185);
 }
